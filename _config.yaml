@@ -1,0 +1,2 @@
+baseurl: /jekexpress
+exclude: ['README.md'] 
